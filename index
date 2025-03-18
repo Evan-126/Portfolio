@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evan Long - Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Evan Long - Creative Director</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- About Section -->
+    <section id="about">
+      <h2>About Me</h2>
+      <p>literally just the best ever</p>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+      <h2>My Projects</h2>
+
+      <!-- Example Project Entry (Replace with actual content) -->
+      <div class="project-entry">
+        <img src="assets/project1-image.jpg" alt="Project Title 1">
+        <h3>Project Title 1</h3>
+        <p>Description of Project 1. Briefly describe the creative challenge, solution, or outcome.</p>
+        <a href="#">View Project</a>
+      </div>
+
+      <!-- Additional Example Project Entry -->
+      <div class="project-entry">
+        <img src="assets/project2-image.jpg" alt="Project Title 2">
+        <h3>Project Title 2</h3>
+        <p>Description of Project 2. Briefly describe the creative challenge, solution, or outcome.</p>
+        <a href="#">View Project</a>
+      </div>
+
+      <!-- Duplicate above block to add more projects -->
+
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>Email: your.email@example.com | LinkedIn: linkedin.com/in/evanlong</p>
+    </section>
+
+  </main>
+
+  <footer>
+    &copy; 2025 Evan Long
+  </footer>
+
+</body>
+</html>
